@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: #333;
+}
+
+img {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  margin-top: 30vh;
+  width: 100vmin;
+  max-width: 90%;
+  max-height: 516px;
+}
